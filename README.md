@@ -1,2 +1,2 @@
 # dl_assignment1
-Deep learnign assignment 1 - Bike sharing 
+Deep learning assignment 1 - Bike sharing 
